@@ -28,9 +28,6 @@ body{
     gap: 4px;
     cursor: pointer;
 }
-.navbar .menu-icon:hover .line{
-    background-color: rgb(6, 84, 84);
-}
 .menu-icon .line{
     width: 25px;
     height: 2px;
@@ -166,7 +163,7 @@ button:active{
     font-size: 3rem;
 }
 .hero  button{
-    padding: 8px 12px;
+    padding: 10px 12px;
     border-radius: 12px;
     cursor: pointer;
     transition: all .3s;
@@ -183,7 +180,7 @@ button:active{
     background-color: #fff;
     border-radius: 50%;
     box-shadow: .5rem 1rem rgba(0,0,0,0.7);
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .img-wrapper img{
     object-fit: cover;
